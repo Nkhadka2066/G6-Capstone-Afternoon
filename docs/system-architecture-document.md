@@ -1,10 +1,10 @@
 # Week 4 – System Architecture
 
-# Sydney NDIS Provider Mobile App
+# NDIS Provider Support Mobile Application (Sydney)
 
 ## 1. Introduction
 
-This section presents the system architecture for the **Sydney NDIS Provider Mobile App**, a full-stack mobile application designed to support NDIS providers in managing client records, service schedules, communication, and compliance reporting.
+This section presents the system architecture for the **NDIS Provider Support Mobile Application (Sydney)**, a full-stack mobile application designed to support NDIS providers in managing client records, service schedules, communication, and compliance reporting.
 
 The purpose of the architecture is to define how the system will be structured technically, how different components will interact, and how security, scalability, and maintainability will be achieved.
 
